@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Template for Bootstrap</title>
+    <title>Template for Jenkins</title>
 
 
     <!-- Custom styles for this template -->
