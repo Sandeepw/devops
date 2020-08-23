@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Template for Jenkins</title>
+    <title>Template for Jenkins demo</title>
 
 
     <!-- Custom styles for this template -->
